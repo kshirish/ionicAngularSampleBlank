@@ -1,0 +1,58 @@
+{
+  "_from": "git+https://github.com/cashfree/cordova-plugin-cashfree.git",
+  "_id": "cordova-plugin-cashfree@1.0.5",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-cashfree",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/cashfree/cordova-plugin-cashfree",
+    "rawSpec": "https://github.com/cashfree/cordova-plugin-cashfree",
+    "saveSpec": "git+https://github.com/cashfree/cordova-plugin-cashfree.git",
+    "fetchSpec": "https://github.com/cashfree/cordova-plugin-cashfree.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/cashfree/cordova-plugin-cashfree.git#764f59cf3efb9a39f724ddb7fecf56f25418ab9b",
+  "_spec": "https://github.com/cashfree/cordova-plugin-cashfree",
+  "_where": "/Users/kisleyshirish/Desktop/ionicangularsampleblank",
+  "author": {
+    "name": "Cashfree Developers",
+    "email": "developer@cashfree.com",
+    "url": "https://casbfree.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/cashfree/cordova-plugin-cashfree/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-cashfree",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova/Phonegap plugin for Cashfree's Mobile payments SDKs",
+  "homepage": "https://github.com/cashfree/cordova-plugin-cashfree#readme",
+  "keywords": [
+    "cashfree",
+    "ecosystem:cordova",
+    "cordova",
+    "phonegap",
+    "ionic",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-plugin-cashfree"
+  ],
+  "name": "cordova-plugin-cashfree",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cashfree/cordova-plugin-cashfree.git"
+  },
+  "version": "1.0.5"
+}
